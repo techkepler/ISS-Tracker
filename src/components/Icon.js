@@ -5,7 +5,7 @@ const iconISS = new L.Icon({
   iconUrl: IssImg,
   iconRetinaUrl: IssImg,
   popupAnchor: [-0, -0],
-  iconSize: [60, 40],
+  iconSize: [60, 50],
   iconAnchor: [25, 16],
 });
 
